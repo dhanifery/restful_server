@@ -34,7 +34,9 @@
           <div class="home-content">
                <h1>Hello, <span></span></h1>
                <!-- <h3>BI-STIR | API Server!</h3> -->
-               <p>Ini adalah halaman dari Restful Server BI-STIR</p>
+               <p>Ini adalah halaman dari Restful Server BI-STIR.
+                    <br>Kunjungi situs kami dengan klik tombil di bawah.
+               </p>
                <a href="http://localhost/mysite/restful_web/" class="btn">Kunjungi Situs</a>
           </div>
 
